@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A Lannister Always Pays His Debts</string>
+    <string name="details">Details</string>
+    <string name="gender">Gender</string>
+    <string name="culture">Culture</string>
+    <string name="born">Born</string>
+    <string name="died">Died</string>
+    <string name="titles">Titles</string>
+    <string name="aliases">Aliases</string>
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="spouse">Spouse</string>
+    <string name="allegiances">Allegiances</string>
+    <string name="books">Books</string>
+    <string name="povBooks">POV books</string>
+    <string name="tvSeries">TV series</string>
+    <string name="playedBy">Played by</string>
+</resources>

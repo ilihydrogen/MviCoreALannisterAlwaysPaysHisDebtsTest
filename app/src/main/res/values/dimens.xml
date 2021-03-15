@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_bar_size">72dp</dimen>
+    <dimen name="smallPadding">16dp</dimen>
+    <dimen name="mediumPadding">32dp</dimen>
+    <dimen name="mediumMargin">32dp</dimen>
+</resources>
